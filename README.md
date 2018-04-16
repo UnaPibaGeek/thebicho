@@ -19,7 +19,7 @@ There you will find the following useful information:
 * [**Get The Bicho hardware**](https://github.com/UnaPibaGeek/thebicho/wiki/Getting-The-Bicho-hardware)  
 * [**Download the firmware**](https://github.com/UnaPibaGeek/thebicho/wiki/Download-the-firmware)  
   * [Connect The Bicho to PicKit3](https://github.com/UnaPibaGeek/thebicho/wiki/Connect-The-Bicho-to-the-PicKit3)  
-  * [Write the PIC memory](https://github.com/UnaPibaGeek/thebicho/wiki/Write-the-firmware)  
+  * [Write the PIC memory](https://github.com/UnaPibaGeek/thebicho/wiki/Write-the-PIC-memory)  
 * [**Load an attack template**](https://github.com/UnaPibaGeek/thebicho/wiki/Load-an-attack-template)  
   * [Switch to Programming-mode](https://github.com/UnaPibaGeek/thebicho/wiki/Programming-mode)  
   * [Use CBM software](https://github.com/UnaPibaGeek/thebicho/wiki/CBM-software)  
