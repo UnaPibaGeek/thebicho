@@ -4,11 +4,13 @@ By backdooring a car with The Bicho you will able to remotely control that car f
 
 ## Getting Started
 Inside the hardware-schematics folder you will find The Bicho schematics for making your own Bicho. If you don't have the resources for making the hardware, you can get a Bicho ready-to-use contacting by DM to [@UnaPibaGeek](https://www.twitter.com/UnaPibaGeek).
-
+  
+    
 <p align="center">
   <img src="http://www.semecayounexploit.com/CBM-THEBICHO/thebicho_v3_tiny2.png" />
 </p>
 
+  
 ## Setup and Usage
 For configuration, connection and usage you can read the [wiki](https://github.com/UnaPibaGeek/thebicho/wiki).  
 There you will find the following useful information: 
