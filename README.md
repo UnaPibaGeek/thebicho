@@ -1,14 +1,12 @@
 # The Bicho
-Hardware backdoor for CAN bus.  
+The Bicho is a hardware backdoor for CAN bus.  
 By backdooring a car with The Bicho you will able to remotely control that car from any geographical point by injecting CAN frames through SMS commands.
 
 ## Getting Started
-Inside the hardware-schematics folder you will find The Bicho schematics for making your own Bicho.  
-
-If you don't have the resources for making the hardware, you can get a Bicho ready-to-use contacting by DM to [@UnaPibaGeek](https://www.twitter.com/UnaPibaGeek).
+Inside the hardware-schematics folder you will find The Bicho schematics for making your own Bicho. If you don't have the resources for making the hardware, you can get a Bicho ready-to-use contacting by DM to [@UnaPibaGeek](https://www.twitter.com/UnaPibaGeek).
 
 <p align="center">
-  <img src="http://www.semecayounexploit.com/CBM-THEBICHO/thebicho_v3_tiny.PNG" />
+  <img src="http://www.semecayounexploit.com/CBM-THEBICHO/thebicho_v3_tiny2.PNG" />
 </p>
 
 ## Setup and Usage
@@ -28,6 +26,7 @@ There you will find the following useful information:
   * [Put the SIMcard](https://github.com/UnaPibaGeek/thebicho/wiki/Put-the-SIMcard)  
   * [Connect to the ODB-II port](https://github.com/UnaPibaGeek/thebicho/wiki/Connect-to-the-OBD-II-port)  
   * [Wait for ready signal](https://github.com/UnaPibaGeek/thebicho/wiki/Ready-to-use) 
+
 
 ## Disclaimer
 *We are not responsible for bad uses.*
