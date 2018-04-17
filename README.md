@@ -27,7 +27,7 @@ There you will find the following useful information:
   * [Switch to hacking-mode](https://github.com/UnaPibaGeek/thebicho/wiki/Hacking-mode)  
   * [Put the SIMcard](https://github.com/UnaPibaGeek/thebicho/wiki/Put-the-SIMcard)  
   * [Connect to the ODB-II port](https://github.com/UnaPibaGeek/thebicho/wiki/Connect-to-the-OBD-II-port)  
-  * [Wait for ready signal](https://github.com/UnaPibaGeek/thebicho/wiki/Ready-to-use) 
+  * [Wait for ready signal](https://github.com/UnaPibaGeek/thebicho/wiki/Wait-for-ready-signal) 
 
 
 ## Disclaimer
