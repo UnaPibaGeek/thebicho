@@ -7,7 +7,7 @@ Inside the hardware-schematics folder you will find The Bicho schematics for mak
   
     
 <p align="center">
-  <img src="http://www.semecayounexploit.com/CBM-THEBICHO/thebicho_v3_tiny2.png" />
+  <img src="https://www.semecayounexploit.com/CBM-THEBICHO/thebicho_v3_tiny2.png" />
 </p>
 
   
